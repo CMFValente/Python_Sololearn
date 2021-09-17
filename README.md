@@ -1,2 +1,2 @@
 # Python_Sololearn
-Basic exercises about Pyhton from Sololearn
+Basic exercises about Python from Sololearn
